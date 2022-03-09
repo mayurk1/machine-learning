@@ -14,3 +14,7 @@ Support Vector Machines (SVM)
 
 Algorithm accuracies were compared in a confusion matrix.
  
+ 
+## titanic
+Directory containing data sets and a machine learning project to predict the survivors of the Titanic. The same algorithms as above were tested and compared.
+
